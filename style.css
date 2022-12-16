@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    padding:0;
+    margin:0;
+    overflow-x: hidden;
+}
+.spotify-head{
+    background-color: black;
+ 
+
+   
+}
+.container{
+    padding-top: 2%;
+}
+.nav-right{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+
+    
+   
+}
+.NavLink{
+    font-size: 1rem !important;
+}
+
+.section{
+    
+    background-color: rgb(171, 46, 212);
+    
+}
+.back{
+    padding-top: 8%;
+    background: url(./bubbles-dktp.svg)!important ;
+    width: 100%;
+    height: auto;
+
+}
+
+ #button{
+   
+    height: 50px !important;
+    border-radius: 50px;
+    background-color: aliceblue !important;
+    color: black !important;
+    border: none;
+ }   
+
+
+
+.section1{
+    background-color: rgb(255, 255, 255);
+
+}
+.Free{
+    padding-top: 15rem;
+    width: 100%;
+    height:40rem;
+
+    background-color: rgb(182, 51, 202);
+    font-size: 3.5rem;
+    font-weight: 800;
+
+}
+.section4{
+    
+    background-color: rgb(171, 46, 212);
+    
+}
+
+.right h1{
+    font-size: 3rem;
+    font-weight: 800;
+}
+.text1{
+    padding-top: 15rem;
+   
+    width: 100%;
+    height:40rem;
+    background: url(./bubbles-dktp.svg)!important ;
+    
+}
+.text1 h1{
+    font-size: 3.5rem;
+    font-weight: 800;
+
+}
+.question{
+background-color: rgb(234, 213, 25);
+width: 100%;
+height:40rem;
+padding-top:7rem ;
+}
+.footer{
+    background-color: black;
+    
+}
+.insta{
+   font-size: 2rem;
+}
+.spotify h1{
+    font-size: 3.5rem;
+    font-weight: 800;
+
+}
+.section3 h1{
+    font-size: 3.5rem;
+    font-weight: 800;
+}
