@@ -36,7 +36,7 @@ body{
 }
 .back{
     padding-top: 8%;
-    background: url(./bubbles-dktp.svg)!important ;
+    background: url(./image/bubbles-dktp.svg)!important ;
     width: 100%;
     height: auto;
 
@@ -82,7 +82,7 @@ body{
    
     width: 100%;
     height:40rem;
-    background: url(./bubbles-dktp.svg)!important ;
+    background: url(./image/bubbles-dktp.svg)!important ;
     
 }
 .text1 h1{
