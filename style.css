@@ -25,10 +25,10 @@ body{
     
    
 }
-.NavLink{
-    font-size: 1rem !important;
+.dropdown-menu
+{
+    width:100%;
 }
-
 .section{
     
     background-color: rgb(171, 46, 212);
@@ -104,11 +104,9 @@ padding-top:7rem ;
    font-size: 2rem;
 }
 .spotify h1{
-    font-size: 3.5rem;
     font-weight: 800;
 
 }
 .section3 h1{
-    font-size: 3.5rem;
     font-weight: 800;
 }
